@@ -1,0 +1,38 @@
+{
+  "level": "Non Credit",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Robotics and Control Systems"
+    ],
+    [
+      "Engineering",
+      "Computer Science"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "4bdd07ef-988e-d779-49be-21f905fe565f",
+      "58b26586-6c5e-77dd-a1b4-9efaa2f5bb86",
+      "71256067-ccd6-9b51-a558-be1707508b94",
+      "437b9cfd-afaa-e25c-bfb4-41087bbaa3a2"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Collaborative Design and Creative Expression with Arduino Microcontrollers",
+  "course_description": "This is a 9-day hands-on workshop about collaboration, design, and electronics prototyping. No previous experience with computer programming or electronics is required. Beginning students will be taught everything they need to know and advanced students will be challenged to learn new skills. Participants will learn about microcontroller programming using Arduino, collaborative software development using GitHub, solderless electronics prototyping, electronic sensors, rapid prototyping, and small team management.\n\nThis course is offered during the Independent Activities Period (IAP), which is a special 4-week term at MIT that runs from the first week of January until the end of the month.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.3-002",
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
